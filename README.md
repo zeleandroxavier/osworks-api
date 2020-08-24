@@ -5,7 +5,7 @@ Projeto de curso gratuito realizado pela @AlgaWorks, onde foi ensinado a fazer u
 
 Utilizando:
 
-Java
-JPA
+Java /
+JPA /
 Mysql
 
